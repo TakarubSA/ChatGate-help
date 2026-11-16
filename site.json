@@ -1,0 +1,14 @@
+{
+  "url": "https://help.chatgate.io",
+  "portalUrl": "https://chatgate.takarubdev.com",
+  "languages": ["ar", "en"],
+  "defaultLanguage": "ar",
+  "sections": [
+    { "id": "start", "title": { "ar": "البداية", "en": "Getting started" }, "pages": ["getting-started", "connect-whatsapp"] },
+    { "id": "engage", "title": { "ar": "المحادثات", "en": "Conversations" }, "pages": ["inbox", "contacts"] },
+    { "id": "grow", "title": { "ar": "النمو", "en": "Growth" }, "pages": ["templates", "campaigns", "analytics"] },
+    { "id": "automate", "title": { "ar": "الأتمتة", "en": "Automation" }, "pages": ["bots", "workflows", "integrations"] },
+    { "id": "workspace", "title": { "ar": "مساحة العمل", "en": "Workspace" }, "pages": ["team", "billing", "settings"] },
+    { "id": "help", "title": { "ar": "المساعدة", "en": "Help" }, "pages": ["troubleshooting"] }
+  ]
+}

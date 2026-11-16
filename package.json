@@ -1,0 +1,16 @@
+{
+  "name": "chatgate-help",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ChatGate help center (help.chatgate.io) — static site built from Markdown",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs && node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs --watch"
+  },
+  "dependencies": {
+    "marked": "14.1.4"
+  },
+  "engines": { "node": ">=18" }
+}
