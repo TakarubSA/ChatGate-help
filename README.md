@@ -82,3 +82,4 @@ The portal links here from the menu under the user's name (**Help center**). Ove
 | `languages`, `defaultLanguage` | Languages built, and the one `/` opens |
 | `sections` | Menu groups, their names per language, and their pages in order |
 # ChatGate-help
+# ChatGate-help
